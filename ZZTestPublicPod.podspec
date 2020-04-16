@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZZTestPublicPod'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = 'ZZTestPublicPod.'
 
 # This description is used to generate tags and improve search results.
@@ -36,8 +36,8 @@ Pod::Spec.new do |s|
   #   'ZZTestPublicPod' => ['ZZTestPublicPod/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/**/*.h'
-  s.private_header_files = 'Pod/Classes/**/**/*.m'
+#  s.public_header_files = 'Pod/Classes/**/**/*.h'
+#  s.private_header_files = 'Pod/Classes/**/**/*.m'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
