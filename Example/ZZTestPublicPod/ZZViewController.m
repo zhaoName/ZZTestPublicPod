@@ -7,6 +7,7 @@
 //
 
 #import "ZZViewController.h"
+#import <NSString+Add.h>
 
 @interface ZZViewController ()
 

@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "NSString+Add.h"
+#import "NSString+Encrypt.h"
 
 FOUNDATION_EXPORT double ZZTestPublicPodVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZZTestPublicPodVersionString[];

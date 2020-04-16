@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = zhaoName;
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = SUPYA5X3JZ;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -494,9 +497,11 @@
 			baseConfigurationReference = 23B57E0082965A352E5F8EB4 /* Pods-ZZTestPublicPod_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SUPYA5X3JZ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZZTestPublicPod/ZZTestPublicPod-Prefix.pch";
 				INFOPLIST_FILE = "ZZTestPublicPod/ZZTestPublicPod-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -510,9 +515,11 @@
 			baseConfigurationReference = F32DF809CDFCE0F4221C1F04 /* Pods-ZZTestPublicPod_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = SUPYA5X3JZ;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ZZTestPublicPod/ZZTestPublicPod-Prefix.pch";
 				INFOPLIST_FILE = "ZZTestPublicPod/ZZTestPublicPod-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
