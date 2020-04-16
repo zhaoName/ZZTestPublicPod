@@ -1,0 +1,16 @@
+PODS:
+  - ZZTestPublicPod (0.1.0)
+
+DEPENDENCIES:
+  - ZZTestPublicPod (from `../`)
+
+EXTERNAL SOURCES:
+  ZZTestPublicPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZTestPublicPod: 97705a1a2b61275407cb21571ec9ed5bec8f83a2
+
+PODFILE CHECKSUM: f7d29813b5980da8f503956befe8ddd54d6dd5f9
+
+COCOAPODS: 1.9.1

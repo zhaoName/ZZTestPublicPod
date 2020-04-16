@@ -1,0 +1,6 @@
+framework module ZZTestPublicPod {
+  umbrella header "ZZTestPublicPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

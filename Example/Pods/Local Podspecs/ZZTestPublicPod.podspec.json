@@ -1,0 +1,22 @@
+{
+  "name": "ZZTestPublicPod",
+  "version": "0.1.0",
+  "summary": "A short description of ZZTestPublicPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhaoName/ZZTestPublicPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaoName": "zhao1529835@126.com"
+  },
+  "source": {
+    "git": "https://github.com/zhaoName/ZZTestPublicPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZTestPublicPod/Classes/**/*"
+}
