@@ -1,5 +1,5 @@
 PODS:
-  - ZZTestPublicPod (0.0.2)
+  - ZZTestPublicPod (0.0.3)
 
 DEPENDENCIES:
   - ZZTestPublicPod (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZZTestPublicPod: b00013cac234a788cdac3b5beb19b974b972778d
+  ZZTestPublicPod: 7f3b2ac2febef0f954071bc15e318854851d3b66
 
 PODFILE CHECKSUM: f7d29813b5980da8f503956befe8ddd54d6dd5f9
 

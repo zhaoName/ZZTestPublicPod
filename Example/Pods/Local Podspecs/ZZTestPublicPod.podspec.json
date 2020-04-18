@@ -1,6 +1,6 @@
 {
   "name": "ZZTestPublicPod",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "ZZTestPublicPod.",
   "description": "test pubilc pods",
   "homepage": "https://github.com/zhaoName/ZZTestPublicPod",
@@ -13,10 +13,14 @@
   },
   "source": {
     "git": "https://github.com/zhaoName/ZZTestPublicPod.git",
-    "tag": "0.0.2"
+    "tag": "0.0.3"
   },
+  "static_framework": true,
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "ZZTestPublicPod/Classes/**/*"
+  "source_files": "ZZTestPublicPod/Classes/**/*",
+  "ios": {
+    "vendored_frameworks": "ZZTestPublicPod.framework"
+  }
 }
