@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZZTestPublicPod'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'ZZTestPublicPod.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'ZZTestPublicPod/Classes/**/*'
+#  s.source_files = 'ZZTestPublicPod/Classes/**/*'
   s.ios.vendored_frameworks = 'ZZTestPublicPod.framework'
   # s.requires_arc = false
   # s.requires_arc = 'ZZTestPublicPod/Classes/arc/*'
